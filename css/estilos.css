@@ -107,17 +107,19 @@ footer{
     margin-top:50px;
 }
     
-.cta{
+}.cta{
     text-align:center;
-    margin-top:40px;
+    margin-top:50px;
+    margin-bottom:50px;
 }
 
 .cta a{
     background:#1f3557;
     color:white;
-    padding:15px 35px;
-    border-radius:30px;
+    padding:22px 70px;
+    border-radius:50px;
     text-decoration:none;
     font-weight:bold;
+    font-size:1.3rem;
     display:inline-block;
 }
