@@ -39,12 +39,23 @@ nav{
     text-align:center;
 }
 
+nav{
+    background:#14233b;
+    position:sticky;
+    top:0;
+    z-index:100;
+    text-align:center;
+    padding:25px 15px;
+}
+
 nav a{
     color:beige;
     text-decoration:none;
-    margin:0 15px;
     font-weight:bold;
-    transition:0.3s;
+    font-size:1.15rem;
+    display:inline-block;
+    margin:18px 20px;
+    transition:.3s;
 }
 
 nav a:hover{
