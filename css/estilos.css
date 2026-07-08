@@ -1,1 +1,42 @@
+*{
+    box-sizing:border-box;
+}
 
+body{
+    margin:0;
+    font-family:Georgia, serif;
+    background:#f8f6f1;
+    color:#2d2d2d;
+}
+
+header{
+    background:#1f3557;
+    color:beige;
+    text-align:center;
+    padding:100px 20px;
+}
+
+nav{
+    background:#14233b;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:beige;
+    text-decoration:none;
+    margin:0 15px;
+}
+
+main{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+footer{
+    background:#1f3557;
+    color:beige;
+    text-align:center;
+    padding:20px;
+}
