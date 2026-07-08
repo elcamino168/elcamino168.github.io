@@ -60,11 +60,11 @@ main{
 
 .seccion{
     background:white;
-    padding:55px;
+    padding:60px;
     margin-bottom:40px;
-    border-radius:20px;
+    border-radius:25px;
     box-shadow:0 8px 25px rgba(0,0,0,.08);
-    p{
+}    p{
     margin-bottom:25px;
     }
 }
