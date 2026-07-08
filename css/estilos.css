@@ -96,8 +96,8 @@ footer{
     }
 
     nav a{
-        display:inline-block;
-        margin:5px;
+        display:block;
+        margin:25px 0;
     }
  
 .frase-final{
