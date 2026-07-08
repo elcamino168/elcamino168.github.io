@@ -27,7 +27,7 @@ header h1{
 header p{
     font-size:1.2rem;
     font-style:italic;
-    opacity:0.9;
+    opacity:.9;
 }
 
 nav{
